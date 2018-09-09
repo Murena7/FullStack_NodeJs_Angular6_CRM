@@ -1,0 +1,6 @@
+{
+    "typescriptHero.index.moduleIgnorePatterns": [
+        "**/node_modules/**/*",
+        "**/client/node_modules/**/*"
+    ]
+}
